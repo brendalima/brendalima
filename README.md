@@ -17,8 +17,18 @@
   I decided to learn programming as a way to indulge my passion for technology. I am immensely attracted to creative and logic activities, and it has been very rewarding to develop functional applications and see how they could improve people's daily life.
 </p>
 
+<img align="right" alt="illustration girl on the laptop with a chow-chow dog" height="300px" src="/github-signed.png" />
+
 
 - ✉ Contact me through brenda.c.lima@poli.ufrj.br.
+
+<br />
+
+<br />
+
+<br />
+
+<br />
 
 <br />
 <p align="center">
