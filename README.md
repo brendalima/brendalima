@@ -1,4 +1,5 @@
 <h1> BRENDA COSTA DE LIMA </h1>
+<h3> "Don't make the mountain your enemy. Get out, get up there instead." </h3>
 
 <a href="https://www.linkedin.com/in/brendalima/">
   <img align="left" alt="linkedin logo" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
