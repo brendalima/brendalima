@@ -4,16 +4,16 @@
 <a href="https://www.linkedin.com/in/brendalima/">
   <img align="left" alt="linkedin logo" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
 </a>
-<a href="https://brendalima.github.io/">
+[<a href="https://brendalima.github.io/">
   <img align="left" alt="brendalima portfolio page" height="33px" src="https://www.shareicon.net/data/256x256/2015/12/06/683021_tool_512x512.png" />
-</a>
+</a>](url)
 
 ![](https://komarev.com/ghpvc/?username=brendalima)
 <br />
 <br />
 
-<p style='text-align: justify;'>  My name is Brenda, a 26 year old student from Brazil, studying civil engineering and web development. I love to learn new things and am very passionate about every single one of those. I'm a huge anime fan. In my free time I like to write or read fiction works and draw illustrations.<br />
-  I live with my beloved fiancé and my dog Kiara, a 9 year old Chow-Chow that means the world to me.<br />
+<p style='text-align: justify;'>  My name is Brenda, a 27 year old student from Brazil, majoring in civil engineering and studying web development. I love to learn new things and am very passionate about every single one of those. In my free time I like to write or read fiction works and draw illustrations, I love making things materialize from my mind into something solid.<br />
+  I live with my fiancé and my dogs Kiara and Banguela (or Kiks and Bangs for short).<br />
   As a civil engineer, it has always upset me how resistent to innovation and technology the construction sector is. I'm always interested in ways of improving production through technology in the sector, since currently it is the less productive engineering in the field. <br />
   I decided to learn programming as a way to indulge my passion for technology. I am immensely attracted to creative and logic activities, and it has been very rewarding to develop functional applications and see how they could improve people's daily life.
 </p>
