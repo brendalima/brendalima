@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/brendalima/">
   <img align="left" alt="linkedin logo" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
 </a>
-[<a href="https://brendalima.github.io/">
-  <img align="left" alt="brendalima portfolio page" height="33px" src="https://www.shareicon.net/data/256x256/2015/12/06/683021_tool_512x512.png" />
-</a>](url)
 
 ![](https://komarev.com/ghpvc/?username=brendalima)
 <br />
